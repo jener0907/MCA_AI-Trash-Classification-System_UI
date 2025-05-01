@@ -2,10 +2,9 @@
 
 <p align="center">
   <a href="https://mca---2025.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/🔥 Live%20Demo-Click%20Here-blueviolet?style=for-the-badge" alt="Live Demo">
+    <img src="https://img.shields.io/badge/🔥 LIVE DEMO-CLICK HERE-purple?style=for-the-badge&logo=firebase" alt="Live Demo">
   </a>
 </p>
-
 
 ---
 
