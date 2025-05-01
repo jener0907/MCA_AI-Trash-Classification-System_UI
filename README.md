@@ -26,3 +26,4 @@ We manage collection data, status monitoring, and storage using Firebase.
 3. Set: `public directory = .`
 4. Set SPA mode: `Yes`
 5. `firebase deploy`
+6. Try your own domain 😎
