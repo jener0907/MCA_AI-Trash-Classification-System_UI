@@ -30,12 +30,13 @@ We manage collection data, status monitoring, and storage using Firebase.
    - HTML / CSS
 
 ### ☁️ Deploy to Firebase
-1. `firebase init hosting`
-2. Choose: `Use an existing project`
-3. Set: `public directory = .`
-4. Set SPA mode: `Yes`
-5. `firebase deploy`
-6. Try your own domain 😎
+1. Enter Windows PowerShell administrator mode.
+2. `firebase init hosting`
+3. Choose: `Use an existing project`
+4. Set: `public directory = .`
+5. Set SPA mode: `Yes`
+6. `firebase deploy`
+7. Try your own domain 😎
 
 ### 📊 Firebase Plan Info
 
