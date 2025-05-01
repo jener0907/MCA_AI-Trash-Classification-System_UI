@@ -1,5 +1,6 @@
 # MCA_AI-Trash-Classification-System_UI
 
+
 <p align="center">
   <a href="https://mca---2025.web.app" target="_blank">
     <img src="https://img.shields.io/badge/🔥 LIVE DEMO-Click%20to%20Open-purple?style=for-the-badge&logo=firebase" alt="Live Demo">
