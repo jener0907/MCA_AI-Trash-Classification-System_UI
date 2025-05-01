@@ -30,13 +30,22 @@ We manage collection data, status monitoring, and storage using Firebase.
    - HTML / CSS
 
 ### ☁️ Deploy to Firebase
-1. Enter Windows PowerShell administrator mode.
+1. Enter Windows PowerShell administrator mode
 2. `firebase init hosting`
 3. Choose: `Use an existing project`
 4. Set: `public directory = .`
 5. Set SPA mode: `Yes`
 6. `firebase deploy`
 7. Try your own domain 😎
+
+### ☁️ When updating content
+1. Enter Windows PowerShell administrator mode
+2. `firebase init hosting`
+3. Choose: `Use an existing project`
+4. Set: `public directory = .`
+5. `firebase deploy`
+6. Go into my domain and see the changes 😎
+
 
 ### 📊 Firebase Plan Info
 
