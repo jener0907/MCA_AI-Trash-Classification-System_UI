@@ -27,3 +27,16 @@ We manage collection data, status monitoring, and storage using Firebase.
 4. Set SPA mode: `Yes`
 5. `firebase deploy`
 6. Try your own domain 😎
+
+### 📊 Firebase Plan Info
+
+We are currently using the **Spark (Free) Plan**, and the limits are:
+
+| Service           | Usage Limit                                   | Notes                                      |
+|-------------------|-----------------------------------------------|--------------------------------------------|
+| **Hosting**        | 10 GB storage / 10 GB downloads per month     | Used for HTML, CSS, JS, images             |
+| **Cloud Firestore**| 1 GB storage / 20,000 writes / 50,000 reads per day | Used for live data, logs, and statistics   |
+| **Independence**   | ✅                                              | Hosting and Firestore **do not share limits** |
+
+> ✔️ We monitor both independently to prevent service disruption.
+
