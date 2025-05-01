@@ -1,5 +1,9 @@
 # MCA_AI-Trash-Classification-System_UI
 
+🚀 **Live Demo**: [https://mca---2025.web.app](https://mca---2025.web.app)
+
+---
+
 ## 🎯 Project Overview
 
 This is a university club project created for the graduation exhibition.
