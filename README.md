@@ -1,6 +1,6 @@
 # MCA_AI-Trash-Classification-System_UI
 
-🚀 **Live Demo**: [https://mca---2025.web.app](https://mca---2025.web.app)
+🚀 **Live Demo**: [MCA_AI-Trash-Classification-System_UI](https://mca---2025.web.app)
 
 ---
 
