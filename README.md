@@ -1,6 +1,11 @@
 # MCA_AI-Trash-Classification-System_UI
 
-🚀 **Live Demo**: [MCA_AI-Trash-Classification-System_UI](https://mca---2025.web.app)
+<p align="center">
+  <a href="https://mca---2025.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/🔥 Live%20Demo-Click%20Here-blueviolet?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
+
 
 ---
 
